@@ -13,7 +13,7 @@ class MainClass {
 
     if(far <= 32)
     {
-      Console.WriteLine("This temperature is below freezing of 32 degree Farenheit");
+      Console.WriteLine("This temperature is below freezing temperature of 32 degree Farenheit");
     }
     else if (far >= 212)
     {
