@@ -17,7 +17,7 @@ class MainClass {
     }
     else if (far >= 212)
     {
-      Console.WriteLine("This temperature is above boiling point of 212 degree Farenheit");
+      Console.WriteLine("This temperature is above boiling point temperature of 212 degree Farenheit");
     }
     //I added this part for practice and see if it would work. I'm sorry if isn't part of the assignment, please delete if not allowed
     else
